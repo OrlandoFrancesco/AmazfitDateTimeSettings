@@ -15,13 +15,13 @@ In addition to manually setting the time and date, it is also possible to do it 
 
 ## Some screens here
 
-![Home](![home.png](screens%2Fhome.png))
+![Home](https://media.discordapp.net/attachments/847760378758037514/1190660615589605478/home.png?ex=65a29c1c&is=6590271c&hm=b9ae6b3e6465bad673721efa99fef21a851512e6e4d1668a7c274e0746ed5159&=&format=webp&quality=lossless)
 
-![Home2](![home2.png](screens%2Fhome2.png))
+![Home2](https://media.discordapp.net/attachments/847760378758037514/1190660614897545297/home2.png?ex=65a29c1b&is=6590271b&hm=7aa1ff116cdedf6d919feb8a0dadbec8f975b246fa042fdfb31f21e909117d5e&=&format=webp&quality=lossless)
 
-![DateActivity](![date.png](screens%2Fdate.png))
+![DateActivity](https://media.discordapp.net/attachments/847760378758037514/1190660615358910606/date.png?ex=65a29c1c&is=6590271c&hm=f06afed60d82602f3157cbc4fb54439a8a5d43c2dbfc29a09e5f2d3579e54ff3&=&format=webp&quality=lossless)
 
-![TimeActivity](![time.png](screens%2Ftime.png))
+![TimeActivity](https://media.discordapp.net/attachments/847760378758037514/1190660615132434472/time.png?ex=65a29c1c&is=6590271c&hm=f7717b220cf8ca5c46e5f7a23bba054ce536d041ab65f275ac89948d5b85140e&=&format=webp&quality=lossless)
 
 The screens are in italian because.. hey! I’m italian!
 
@@ -42,5 +42,7 @@ To unlock and root the watch follow the instructions below.
 # How to unlock and root
 
 Coming soon.
+
+# Credits
 
 Home menu style is made by [AmazMod](https://github.com/AmazMod).
