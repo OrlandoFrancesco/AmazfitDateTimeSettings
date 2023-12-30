@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Date and time</string>
+    <string name="title">Date and time\nsettings</string>
+    <string name="date">Set date</string>
+    <string name="time">Set time</string>
+    <string name="timeZone">Automatic date and time</string>
+    <string name="save">Save</string>
+    <string name="root">It looks like you don\'t have root permissions</string>
+    <string name="january">Jan</string>
+    <string name="february">Feb</string>
+    <string name="march">Mar</string>
+    <string name="april">Apr</string>
+    <string name="may">May</string>
+    <string name="june">Jun</string>
+    <string name="july">Jul</string>
+    <string name="august">Aug</string>
+    <string name="september">Sep</string>
+    <string name="october">Oct</string>
+    <string name="november">Nov</string>
+    <string name="december">Dec</string>
+    <string name="setting_up">Setting up...</string>
+    <string name="done">Done!</string>
+    <string name="network_error">Network error. Check WiFi connection and retry</string>
+</resources>

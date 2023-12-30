@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Data e ora</string>
+    <string name="title">Impostazioni\ndi data e ora</string>
+    <string name="date">Data</string>
+    <string name="time">Ora</string>
+    <string name="timeZone">Data e ora automatica</string>
+    <string name="save">Salva</string>
+    <string name="root">Sembra che tu non abbia i permessi di root</string>
+    <string name="january">Gen</string>
+    <string name="february">Feb</string>
+    <string name="march">Mar</string>
+    <string name="april">Apr</string>
+    <string name="may">Mag</string>
+    <string name="june">Giu</string>
+    <string name="july">Lug</string>
+    <string name="august">Ago</string>
+    <string name="september">Set</string>
+    <string name="october">Ott</string>
+    <string name="november">Nov</string>
+    <string name="december">Dic</string>
+    <string name="setting_up">Impostando...</string>
+    <string name="done">Fatto!</string>
+    <string name="network_error">Errore di connessione. Controlla il WiFi e riprova</string>
+</resources>
