@@ -32,20 +32,23 @@
                 android:id="@+id/dayPicker"
                 android:layout_width="50dp"
                 android:layout_height="250px"
-                android:layout_marginLeft="5dp" />
+                android:layout_marginLeft="5dp"
+                android:descendantFocusability="blocksDescendants" />
 
             <NumberPicker
                 android:id="@+id/monthPicker"
                 android:layout_width="50dp"
                 android:layout_height="250px"
                 android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp" />
+                android:layout_marginRight="5dp"
+                android:descendantFocusability="blocksDescendants" />
 
             <NumberPicker
                 android:id="@+id/yearPicker"
                 android:layout_width="50dp"
                 android:layout_height="250px"
-                android:layout_marginRight="5dp" />
+                android:layout_marginRight="5dp"
+                android:descendantFocusability="blocksDescendants" />
 
         </LinearLayout>
 
