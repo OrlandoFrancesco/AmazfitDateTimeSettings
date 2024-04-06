@@ -15,13 +15,13 @@ In addition to manually setting the time and date, it is also possible to do it 
 
 ## Some screens here
 
-![Home](https://media.discordapp.net/attachments/847760378758037514/1190660615589605478/home.png?ex=65a29c1c&is=6590271c&hm=b9ae6b3e6465bad673721efa99fef21a851512e6e4d1668a7c274e0746ed5159&=&format=webp&quality=lossless)
+![Home](https://cdn.discordapp.com/attachments/847760378758037514/1190660615589605478/home.png?ex=661a949c&is=66081f9c&hm=1b7981df26c71a6e7059127be7a126b7fcb8c31064fa4c5ec62ed0450d220ba5&)
 
-![Home2](https://media.discordapp.net/attachments/847760378758037514/1190660614897545297/home2.png?ex=65a29c1b&is=6590271b&hm=7aa1ff116cdedf6d919feb8a0dadbec8f975b246fa042fdfb31f21e909117d5e&=&format=webp&quality=lossless)
+![Home2](https://cdn.discordapp.com/attachments/847760378758037514/1190660614897545297/home2.png?ex=661a949b&is=66081f9b&hm=b3c9f01fe87bc337761e9cc4b398974bb126c97bf97df1c874bedf95b888e8f0&)
 
-![DateActivity](https://media.discordapp.net/attachments/847760378758037514/1190660615358910606/date.png?ex=65a29c1c&is=6590271c&hm=f06afed60d82602f3157cbc4fb54439a8a5d43c2dbfc29a09e5f2d3579e54ff3&=&format=webp&quality=lossless)
+![DateActivity](https://cdn.discordapp.com/attachments/847760378758037514/1190660615358910606/date.png?ex=661a949c&is=66081f9c&hm=3ba3c7dddf16d5852b5424b91376f10884215b8b3a2d20d5bdaa5c83ff995a02&)
 
-![TimeActivity](https://media.discordapp.net/attachments/847760378758037514/1190660615132434472/time.png?ex=65a29c1c&is=6590271c&hm=f7717b220cf8ca5c46e5f7a23bba054ce536d041ab65f275ac89948d5b85140e&=&format=webp&quality=lossless)
+![TimeActivity](https://cdn.discordapp.com/attachments/847760378758037514/1190660615132434472/time.png?ex=661a949c&is=66081f9c&hm=6c5d39bee98d65a7e96301ce921f84f55546d74ed5425ab2cb1f27f5b10b2466&)
 
 The screens are in italian because.. hey! I’m italian!
 
